@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6623afb-f523-4c45-a975-fdda5ed38188" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2nxAiptQt9NfHq23pt0iz741m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6623afb-f523-4c45-a975-fdda5ed38188" name="Default Changelist" comment="" />
+      <created>1604907798000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604907798000</updated>
+      <workItem from="1604907799187" duration="1963000" />
+      <workItem from="1604974778087" duration="200000" />
+      <workItem from="1604975247764" duration="1762000" />
+      <workItem from="1604979412398" duration="2885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1476" y="503" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604984963629">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1476" y="503" key="#com.intellij.fileTypes.FileTypeChooser/2560.23.1920.1057/0.23.2560.1337@0.23.2560.1337" timestamp="1604984963629" />
+    <state x="1520" y="571" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604984535200">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1520" y="571" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2560.23.1920.1057/0.23.2560.1337@0.23.2560.1337" timestamp="1604984535200" />
+    <state x="1425" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1604984159515">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1425" y="331" width="670" height="676" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1337@0.23.2560.1337" timestamp="1604984159515" />
+  </component>
+</project>
